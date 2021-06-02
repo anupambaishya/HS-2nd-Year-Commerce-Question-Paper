@@ -16,9 +16,22 @@
     color: blueviolet;
     font-weight: bold;
 }
+.rrrr{
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 15px;
+}
+.rrrrr{
+    text-align: center;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 14px;
+}
 .kk{
     text-decoration: none;
     color: deeppink;
+    /* font-size: 15px; */
 }
 .ee{
     color: red;
